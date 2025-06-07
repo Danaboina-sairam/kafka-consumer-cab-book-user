@@ -12,7 +12,7 @@
 	<artifactId>kafka-consumer-cab-book-user</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>kafka-consumer-cab-book-user</name>
-	<description>Demo project for Spring Boot</description>
+	<description>kafka-consumer-cab-book-user</description>
 	<url/>
 	<licenses>
 		<license/>
